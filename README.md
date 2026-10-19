@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/tahira1i/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/tahira1i/Leetcode/tree/master/0011-container-with-most-water) |
 | [0268-missing-number](https://github.com/tahira1i/Leetcode/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tahira1i/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,8 +49,10 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tahira1i/Leetcode/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tahira1i/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tahira1i/Leetcode/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tahira1i/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
