@@ -20,6 +20,7 @@
 | [0009-palindrome-number](https://github.com/tahira1i/Leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/tahira1i/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/tahira1i/Leetcode/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/tahira1i/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0067-add-binary](https://github.com/tahira1i/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/tahira1i/Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/tahira1i/Leetcode/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/tahira1i/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
