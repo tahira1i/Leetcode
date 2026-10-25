@@ -21,6 +21,7 @@
 | [0009-palindrome-number](https://github.com/tahira1i/Leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/tahira1i/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/tahira1i/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/tahira1i/Leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/tahira1i/Leetcode/tree/master/0415-add-strings) |
 | [1486-xor-operation-in-an-array](https://github.com/tahira1i/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
@@ -43,6 +44,7 @@
 | [0067-add-binary](https://github.com/tahira1i/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/tahira1i/Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/tahira1i/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/tahira1i/Leetcode/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/tahira1i/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/tahira1i/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/tahira1i/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
