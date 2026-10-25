@@ -29,6 +29,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/tahira1i/Leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/tahira1i/Leetcode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/tahira1i/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tahira1i/Leetcode/tree/master/0067-add-binary) |
+| [0345-reverse-vowels-of-a-string](https://github.com/tahira1i/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/tahira1i/Leetcode/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
